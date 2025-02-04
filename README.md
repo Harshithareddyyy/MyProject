@@ -1,2 +1,2 @@
 # MyProject
-This is the first test project for GitHub
+This is the first test project for GitHUB.
